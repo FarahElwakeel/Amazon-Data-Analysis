@@ -40,6 +40,6 @@ The final dashboard meets all requirements and provides the following insights:
 ## Project Structure
 
 * `Amazon_Dataset_Task1.xlsx`: The final, interactive Excel dashboard file. **Download this file to interact with the slicers and view the underlying pivot tables.**
-* `Data/raw_sales_data.csv`: The original, unprocessed dataset.
-* `Data/cleaned_sales_data.csv`: The dataset after cleaning and preparation steps.
-* `Requirements/Project_Brief.pdf`: The original task document outlining the business needs.
+* `Data/raw_sales_data.xlsx`: The original, unprocessed dataset.
+* `Data/cleaned_sales_data.xlsx`: The dataset after cleaning and preparation steps.
+* `Requirements/Task6_Dashboard.pdf`: The original task document outlining the business needs.
